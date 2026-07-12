@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/
 common:
+  - type: DomainSecurity
+    url: security/mangapi-domain-security.yml
   - type: Website
     url: https://rapidapi.com/pierre.carcellermeunier/api/mangapi3/
   - type: PublicAPIsListing
